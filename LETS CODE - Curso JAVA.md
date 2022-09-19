@@ -20,7 +20,7 @@ Selecionar o sistema operacional (Windows) e baixar o arquivo: **x64 Installer**
 
 **/exit**– sair do ambiente Java e voltar ao terminal CMD do Windows.
 
-![java1](assets/java1.jpg)
+![java1](imagens/java1.jpg)
 
 Para programar em Java utilizar a **IDE** *(IntegratedDevelopment Enviroment)* **IJ –IntelliJ IDEA, **ferramenta ideal para desenvolvimento Java; É a mais utilizada na atualidade.
 
@@ -34,21 +34,21 @@ No site **JETBRAINS**: https://www.jetbrains.com/pt-br/idea/download/#section=wi
 
 Quando a IDE abrir selecionar: NEW PROJECT; 
 
-![intelliJ1](assets/intelliJ1.jpg)
+![intelliJ1](imagens/intelliJ1.jpg)
 
 Na próxima tela definir o nome olocal onde será salvo o projeto:
 
-![intelliJ2](assets/intelliJ2.jpg)
+![intelliJ2](imagens/intelliJ2.jpg)
 
 Após criar o projeto: clicar emSRC/NEW/JAVA CLASS
 
-![intelliJ3](assets/intelliJ3.jpg)
+![intelliJ3](imagens/intelliJ3.jpg)
 
 Por padrão do Java a **CLASSE** tem o mesmo nome do **ARQUIVO**
 
-![intelliJ4](assets/intelliJ4.jpg)
+![intelliJ4](imagens/intelliJ4.jpg)
 
-![intelliJ5](assets/intelliJ5.jpg)
+![intelliJ5](imagens/intelliJ5.jpg)
 
 A estrutura inicial está pronta. Para criar o método principal do Java, digitar **“main”**.O IntelliJ tem o **code completion** (auto-completar) quando você digita um comando ou um sinal ortográfico: aspas, parênteses, chaves, colchetes.
 
@@ -62,7 +62,7 @@ Podemos iniciar, digitando apenas 2 letras para a palavra do código: “Sy” (
 
 Após criar a primeira aplicação basta clicar no **botão verde “play”** ao lado do código para **“rodar”** a aplicação total ou somente o módulo: 
 
-![intelliJ6](assets/intelliJ6.jpg)
+![intelliJ6](imagens/intelliJ6.jpg)
 
 O resultado aparece no terminal com a frase: **Hello, World!** 
 
@@ -663,7 +663,7 @@ Process finished with exit code 0
 
 **IMPORTANTE:**
 
-![intelliJ7](assets/intelliJ7.jpg)
+![intelliJ7](imagens/intelliJ7.jpg)
 
 ----
 
